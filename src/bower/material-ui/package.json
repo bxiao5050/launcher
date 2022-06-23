@@ -108,7 +108,7 @@
     "glob-gitignore": "^1.0.11",
     "gm": "^1.23.0",
     "isomorphic-fetch": "^2.2.1",
-    "jsdom": "^13.0.0",
+    "jsdom": "^16.5.0",
     "jsonlint": "^1.6.3",
     "jss-rtl": "^0.2.1",
     "karma": "3.0.0",
